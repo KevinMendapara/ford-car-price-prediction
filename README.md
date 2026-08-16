@@ -168,3 +168,5 @@ model training and evaluation. The notebook's results show that the
 **one-hot encoded Linear Regression model achieves the stronger
 performance**, with an R² of approximately **0.84**.
 
+<img width="827" height="676" alt="Screenshot 2026-08-16 113217" src="https://github.com/user-attachments/assets/143ffdf6-ca7f-4030-b45b-b29da0fdcf34" />
+<img width="907" height="686" alt="Screenshot 2026-08-16 113242" src="https://github.com/user-attachments/assets/c6b34d04-0030-4ce0-9f59-de2639ac44fe" />
